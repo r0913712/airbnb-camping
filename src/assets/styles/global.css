@@ -1,0 +1,10 @@
+/* src/assets/styles/global.css */
+
+body {
+    background: url('../img/indeximg.png') no-repeat center center fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
